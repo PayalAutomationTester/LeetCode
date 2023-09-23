@@ -27,6 +27,6 @@ public class BookSale {
 
     public static void main(String[] args) {
         int x = nthLowestSelling(new int[] { 5, 4, 3, 2, 1, 5, 4, 2, 2, 5, 4, 3, 5, 4, 5 }, 3);
-        System.out.println(x);
+        System.out.println("nthLowestSelling= "+x);
     }
 }
