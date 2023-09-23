@@ -1,4 +1,4 @@
-package EasyPrograms;
+package ArrayString;
 
 public class StringMatchingArray_1408 {
 
