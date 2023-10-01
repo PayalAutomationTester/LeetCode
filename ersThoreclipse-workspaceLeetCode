@@ -1,0 +1,46 @@
+[33mcommit de614b78d3541ed727fdfd520928cb9be37ee0b6[m[33m ([m[1;36mHEAD -> [m[1;32mleetcode[m[33m, [m[1;31morigin/leetcode[m[33m)[m
+Author: Payal Gaikwad <payalgaikwad21@gmail.com>
+Date:   Sat Sep 30 15:09:25 2023 +0530
+
+    changes on Array and Employee class
+
+[1mdiff --git a/src/ArrayString/StringMatchingArray_1408.java b/src/ArrayString/StringMatchingArray_1408.java[m
+[1mindex f0f8e2c..e7508e8 100644[m
+[1m--- a/src/ArrayString/StringMatchingArray_1408.java[m
+[1m+++ b/src/ArrayString/StringMatchingArray_1408.java[m
+[36m@@ -4,7 +4,9 @@[m [mpublic class StringMatchingArray_1408 {[m
+ [m
+ 	static public void main(String[] args) {[m
+ 		[m
+[31m-		System.out.println("Git new branch test");[m
+[32m+[m		[32mSystem.out.println("Git Clone and make changes");[m
+[32m+[m		[32mSystem.out.println("Git push and merge in master");[m
+[32m+[m
+ 	}[m
+ 	[m
+ }[m
+[1mdiff --git a/src/EasyPrograms/Employee.java b/src/EasyPrograms/Employee.java[m
+[1mindex fb8f4bf..da0d8ba 100644[m
+[1m--- a/src/EasyPrograms/Employee.java[m
+[1m+++ b/src/EasyPrograms/Employee.java[m
+[36m@@ -1,14 +1,17 @@[m
+ package EasyPrograms;[m
+ [m
+[32m+[m[32mimport org.testng.annotations.Test;[m
+[32m+[m
+ public class Employee {[m
+ 	[m
+ 	 String firstName;[m
+      String lastName;[m
+     [m
+ [m
+[31m-	public static void main(String[] args) {[m
+[31m-		// TODO Auto-generated method stub[m
+[31m-[m
+[32m+[m	[32m@Test[m
+[32m+[m	[32mpublic void EmployeeTest() {[m
+[32m+[m		[32mSystem.out.println("Employee is added.!");[m
+[32m+[m[41m		[m
+ 	}[m
+ [m
+ }[m

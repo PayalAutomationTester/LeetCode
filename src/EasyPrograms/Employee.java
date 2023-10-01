@@ -1,6 +1,6 @@
 package EasyPrograms;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class Employee {
 	
@@ -8,11 +8,15 @@ public class Employee {
      String lastName;
     
 
-	@Test
-	public void EmployeeTest() {
-		System.out.println("Employee is added.!");
-		
-	}
+     public static void main (String[] args) {
+    	 
+     }
+     
+//	@Test
+//	public void EmployeeTest() {
+//		System.out.println("Employee is added.!");
+//		
+//	}
 
 }
 
