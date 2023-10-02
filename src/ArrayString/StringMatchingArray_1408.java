@@ -9,6 +9,7 @@ public class StringMatchingArray_1408 {
 		System.out.println("Git fetch");
 		System.out.println("Git rebase");
 		System.out.println("Git cherry commit 1");
+		System.out.println("Git cherry commit 2");
 
 	}
 	
