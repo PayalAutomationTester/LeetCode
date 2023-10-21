@@ -3,7 +3,7 @@ package EasyPrograms;
 public class Palindrome {
 
 	public static void main(String[] args) {
-		System.out.println(new Palindrome().palindrome("abc"));
+		System.out.println(new Palindrome().palindrome("ABCBA"));
 
 	}
 	

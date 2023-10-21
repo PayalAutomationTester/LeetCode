@@ -1,6 +1,6 @@
 package EasyPrograms;
 
-public class BuySellStock {
+public class BuySellStock_121 {
 
 	public static void main(String[] args) {
 

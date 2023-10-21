@@ -1,6 +1,6 @@
 package EasyPrograms;
 
-public class RemoveDuplicates {
+public class RemoveDuplicates_26 {
 
 	public static void main(String[] args) {
 

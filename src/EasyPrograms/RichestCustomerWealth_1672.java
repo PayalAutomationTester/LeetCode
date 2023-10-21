@@ -1,6 +1,6 @@
 package EasyPrograms;
 
-public class RichestCustomerWealth {
+public class RichestCustomerWealth_1672 {
 
 	public static void main(String[] args) {
 
