@@ -20,8 +20,12 @@ public class PalindromeString {
 			}
 			j--;
 		}
-		
-		System.out.println(flag);
+		if(flag==true) {
+		System.out.println("String is Palindrome");
+		}
+		else {
+			System.out.println("String is not Palindrome");
+		}
 	}
 
 }
