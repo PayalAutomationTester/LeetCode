@@ -1,5 +1,7 @@
 package EasyPrograms;
 
+import java.util.Arrays;
+
 public class RemoveDuplicates_26 {
 
 	public static void main(String[] args) {
@@ -7,6 +9,7 @@ public class RemoveDuplicates_26 {
 		int[] nums = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
 		int k = removeDuplicates(nums);
 		System.out.println(k);
+		System.out.println(Arrays.toString(nums));
 
 	}
 
